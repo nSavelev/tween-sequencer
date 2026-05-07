@@ -1,0 +1,18 @@
+{
+    "name": "TweenSequencer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3b5dec163281ffc4c87776d47e9131cc",
+        "GUID:002c1bbed08fa44d282ef34fd5edb138",
+        "GUID:b8e24fd1eb19b4226afebb2810e3c19b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
