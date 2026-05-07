@@ -5,6 +5,5 @@
   "unity": "6000.0",
   "displayName": "TweenSequencer",
   "dependencies": {
-    "com.github.siccity.xnode": "https://github.com/Siccity/xNode.git"
   }
 }
