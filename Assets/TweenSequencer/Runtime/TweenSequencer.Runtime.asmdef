@@ -3,7 +3,7 @@
   "rootNamespace": "",
   "references": [
     "GUID:b8e24fd1eb19b4226afebb2810e3c19b",
-    "GUID:a6b556b6499064942b0c06efd4a249be",
+    "DOTween.Modules",
     "GUID:6055be8ebefd69e48b49212b09b47b2f"
   ],
   "includePlatforms": [],
