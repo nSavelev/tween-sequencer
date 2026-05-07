@@ -1,0 +1,46 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+sysinfo.txt
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+*.zip
+*.tar.gz
+*.unitypackage
+
+# IDEs and editors
+.vs/
+.idea/
+.vscode/
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Misc
+*.tmp
+*.tmp.*
+*.log
+UserSettings

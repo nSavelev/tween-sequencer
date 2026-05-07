@@ -1,0 +1,22 @@
+using System.Collections;
+using DG.Tweening;
+
+namespace TweenSequencer.Runtime
+{
+    [CreateNodeMenu("TweenSequencer/Transform/DOMoveX")]
+    public class TransformDOMoveXNode : TransformTweenNodeBase
+    {
+        public float to;
+        public string toParameterKey;
+        public bool snapping;
+
+        public override IEnumerator Execute(TweenScenarioContext c)
+        {
+            var t = GetTarget(c);
+            if (t == null) yield break;
+            var tw = t.DOMoveX(ResolveFloat(c, toParameterKey, to), duration, snapping);
+            Apply(tw);
+            yield return TweenAwaiter.Wait(tw);
+        }
+    }
+}
