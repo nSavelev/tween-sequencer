@@ -2,7 +2,7 @@
   "name": "com.github.nsavelev.tween-sequencer",
   "description": "Node based tween animation scenario editor.",
   "version": "0.0.1",
-  "unity": "6000.1.17f1",
+  "unity": "6000.0",
   "displayName": "TweenSequencer",
   "dependencies": {
     "com.github.siccity.xnode": "https://github.com/Siccity/xNode.git"
